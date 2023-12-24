@@ -1,0 +1,39 @@
+body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto';
+   text-align: center;
+}
+
+.BUTTON{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2PX solid black;
+    border-radius: 9PX;
+    cursor: pointer;
+    background: linear-gradient(rgb(0, 255, 187),green);
+}
+
+.row{
+    margin: 8PX 0;
+}
+
+.row INPUT{
+    width: 290px;
+    font-size: 20px;
+    margin: 0px;
+    border-radius: 13px;
+    background-color: aqua;
+}
+
+.TEXT-center{
+    text-align: center;
+}
+
+.FLEX{
+    display: flex;
+   flex-direction: column;
+   margin: auto;
+   
+}
